@@ -1,7 +1,7 @@
 #Demo-2
- 
-Some text 
 
-#local-repo
+Some text
 
-1. open this 
+#Demo-3
+
+More text this will merge into main git
